@@ -35,7 +35,7 @@ HireSense/
 
 1. Clone the repo:
    
-   git clone https://github.com/YOUR-USERNAME/HireSense.git
+   git clone https://github.com/harshitasharma2120-ship-it/HireSense.git
    
 2. Import into Eclipse: *File → Import → Existing Projects* (or Dynamic Web Project).
 3. Create the database: open MySQL and run schema.sql.
