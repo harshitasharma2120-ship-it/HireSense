@@ -56,4 +56,4 @@ HireSense/
 ## Author
 
 *Harshita Sharma*
-B.Tech ECE
+
